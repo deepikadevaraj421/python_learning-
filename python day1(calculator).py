@@ -15,3 +15,4 @@ elif opr=='/':
     print("The result is:", result)
 else:
     print("Invalid operator") 
+print(num1, opr, num2, "=", result)
